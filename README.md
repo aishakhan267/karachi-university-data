@@ -1,1 +1,1 @@
-# karachi-university-data
+# karachi-uni-data
